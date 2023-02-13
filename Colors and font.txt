@@ -1,0 +1,13 @@
+Test No-[A]
+Colors:------------------------
+1) #FF6918
+2) #F43702
+3) #292D33
+4) #555C66
+
+#F2F2F2
+#333333
+================================
+Fonts:--------
+Heading: Oswald, sans-serif;
+Text: Open Sans,sans-serif
